@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'saturday';
+  title = 'saturday english premier league';
+  todos={
+   name:'denis',
+   priority:1,
+   sex:'male',
+  }
 }
